@@ -1,8 +1,8 @@
 import os
 os.system("cls")
 
-VIDRIAGON_POR_SOLDADO = 1
-TEMPERATURA_CONGELACION = 0
+VIDRIAGON_POR_SOLDADO = 3
+TEMPERATURA_CONGELACION = -15
 
 soldados_inmaculados = int(input("Ingrese la cantidad de soldados inmaculados\n"))
 soldados_dothrakis = int(input("Ingrese la cantidad de soldados dothrakis\n"))
